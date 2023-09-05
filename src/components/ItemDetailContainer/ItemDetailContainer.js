@@ -12,7 +12,7 @@ export default function ItemDetailContainer() {
         const response = await fetch('/data/products.json')
         const products = await response.json()
 
-        const selectedProduct = products.find((product) => product.id === id)
+        const selectedProduct = products.find((product) => product.id === Number(id))
 
         if (selectedProduct) {
           setDetail(selectedProduct)

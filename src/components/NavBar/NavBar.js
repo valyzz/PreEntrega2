@@ -10,9 +10,9 @@ export default function NavBar () {
         <Navbar.Brand >  <Link to="/">Bastimento</Link>
 </Navbar.Brand>
           <Nav className="me-auto">
-          <Link to='categoria/Cactus'>Cactus</Link>
-         <Link to='categoria/Semillas'>Semillas</Link>
-         <Link to='categoria/Frutales'>Frutales</Link>
+          <Link to='category/Cactus'>Cactus</Link>
+         <Link to='category/Semillas'>Semillas</Link>
+         <Link to='category/Frutales'>Frutales</Link>
           
           </Nav>
       </Container>

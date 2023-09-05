@@ -4,84 +4,84 @@
       "name": "Cactus Mexicano",
       "price": 10.99,
       "imagen": "./assest/cesta.png",
-      "categoria": "Cactus"
+      "category": "Cactus"
     },
     {
       "id": 2,
       "name": "Cactus Salgar",
       "price": 12.99,
       "imagen": "./assest/cesta.png",
-      "categoria": "Cactus"
+      "category": "Cactus"
     },
     {
       "id": 3,
       "name": "Cactus Rondo",
       "price": 9.99,
       "imagen": "./assest/cesta.png",
-      "categoria": "Cactus"
+      "category": "Cactus"
     },
     {
       "id": 4,
       "name": "Cactus Usiacuri",
       "price": 14.99,
       "imagen": "./assest/cesta.png",
-      "categoria": "Cactus"
+      "category": "Cactus"
     },
     {
       "id": 5,
       "name": "Semillas de Maiz",
       "price": 5.99,
       "imagen": "./assest/cesta.png",
-      "categoria": "Semillas"
+      "category": "Semillas"
     },
     {
       "id": 6,
       "name": "Semillas de Auyama",
       "price": 4.99,
       "imagen": "./assest/cesta.png",
-      "categoria": "Semillas"
+      "category": "Semillas"
     },
     {
       "id": 7,
       "name": "Semillas de Patilla",
       "price": 6.99,
       "imagen": "./assest/cesta.png",
-      "categoria": "Semillas"
+      "category": "Semillas"
     },
     {
       "id": 8,
       "name": "Semillas de Maracuya",
       "price": 7.99,
       "imagen": "./assest/cesta.png",
-      "categoria": "Semillas"
+      "category": "Semillas"
     },
     {
       "id": 9,
       "name": "Frutal Guanabana",
       "price": 15.99,
       "imagen": "./assest/cesta.png",
-      "categoria": "Frutales"
+      "category": "Frutales"
     },
     {
       "id": 10,
       "name": "Frutal Limon",
       "price": 17.99,
       "imagen": "./assest/cesta.png",
-      "categoria": "Frutales"
+      "category": "Frutales"
     },
     {
       "id": 11,
       "name": "Frutal Papaya",
       "price": 16.99,
       "imagen": "./assest/cesta.png",
-      "categoria": "Frutales"
+      "category": "Frutales"
     },
     {
       "id": 12,
       "name": "Frutal Coco",
       "price": 19.99,
       "imagen": "./assest/cesta.png",
-      "categoria": "Frutales"
+      "category": "Frutales"
     }
   ]
   
