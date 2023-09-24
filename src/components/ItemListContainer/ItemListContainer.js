@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card'
 
 export default function ItemListContainer() {
   const [items, setItems] = useState([])
-  const { id } = useParams()
+const { id } = useParams()
 
   const getProducts = async () => {
     const response = await fetch('/data/products.json')

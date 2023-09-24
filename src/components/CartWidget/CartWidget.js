@@ -1,11 +1,16 @@
 import cesta from './assest/cesta.png'
+import { Link } from 'react-router-dom'
+
 
 const CartWidget = () =>  {
+    const {totalQuantity} = useContext(CartContext)
+
     return (
-        <div>
+        <Link to= '/cart'className='CartWidget' style={{ display: totalQuantity > 0 ? 'block' : 'none'}}>
             <img src={cesta} alt="cesta compra"  width="50" height="50" />
-            0 und
-        </div>
+            { totalQuantity }
+        </Link>
+       
     )
 }
 export default CartWidget
